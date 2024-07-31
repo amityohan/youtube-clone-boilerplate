@@ -1,0 +1,86 @@
+body{
+    background-color: rgb(26, 25, 25);
+}
+.webpage{
+    display: flex;
+}
+p{
+    color: white;
+}
+.sidebar{
+    height: 100%;
+    width: 18%;
+    background-color:rgb(57, 56, 56) ;
+}
+.bar{
+    display: flex;
+    margin-left: 10px;
+}
+.logo{
+    margin-left: 10px;
+    margin-top:5px ;
+}
+.sidebarnav{
+    /* margin-top: 10px; */
+    margin-left:10px;
+    display: flex;
+    height: 40px;
+}
+.sidebarimage{
+    height: 20px;
+    margin-top: 15px;
+    margin-right:20px
+}
+.hr{
+    border-color: darkgray;
+    width: 180px;
+}
+.subscriptions{
+    margin-left: 10px;
+    color: darkgray;
+}
+.searchbar{
+    margin-left: 180px;
+    background-color:rgb(0, 0, 0);
+    border: 3px;
+    border-color: darkgrey;
+    height: 30px;
+    width: 135%;
+}
+.nav{
+    display: flex;
+}
+.searchicon{
+    margin-left: 306px;
+    border: 0.5px solid darkgrey;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.mic{
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.create{
+    margin-left: 200px;
+    
+}
+hr{
+    border-color: darkgray;  
+}
+.nav2{
+   display: flex; 
+}
+.buttons{
+    margin-left: 20px;
+}
+.button{
+    background-color: rgb(48, 41, 41);
+    color: aliceblue;
+}
+.videos1{
+    display: flex;
+}
+.thumbnail{
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
